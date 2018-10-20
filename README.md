@@ -25,13 +25,13 @@ This project was developed with the knowledge obtained along Gulp module of Web 
 Clone this repository, open your terminal in project root folder and run the following commands:
 
 ```
-// Install Gulp globally
+// Installs Gulp globally
 npm i -g gulp
-// Install dependencies
+// Installs dependencies
 npm i
 
-// Build and run webserver
+// Builds and run webserver
 npm start
-// Build only
+// Builds only
 npm run build
 ```
