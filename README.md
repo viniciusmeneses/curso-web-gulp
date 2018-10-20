@@ -1,2 +1,37 @@
 # curso-web-gulp
-Mini SPA built using Gulp
+
+> Mini SPA built using Gulp to automate tasks and the build.
+
+This project was developed with the knowledge obtained along Gulp module of Web Moderno course and using the following technologies/modules:
+
+- Node.js
+
+- Gulp
+
+- SASS
+
+- Babel
+
+- UglifyJS
+
+- UglifyCSS
+
+- HTMLMin
+
+- Webserver
+
+## Installing and Running:
+
+Clone this repository, open your terminal in project root folder and run the following commands:
+
+```
+// Install Gulp globally
+npm i -g gulp
+// Install dependencies
+npm i
+
+// Build and run webserver
+npm start
+// Build only
+npm run build
+```
